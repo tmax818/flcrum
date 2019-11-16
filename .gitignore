@@ -1,0 +1,5 @@
+# exclude everything
+repos/*
+
+# exception to the rule
+!somefolder/.gitkeep 
