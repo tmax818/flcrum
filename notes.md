@@ -2,21 +2,15 @@
 
 ## Welcome
 ### Welcome
-- [Welcome to Learn Verified](https://github.com/learn-co-curriculum/welcome-to-learn-verified)
-    - [readme](repos/01welcome/welcome-to-learn-verified/README.md)
+[Welcome to Learn Verified](https://github.com/learn-co-curriculum/welcome-to-learn-verified) - [readme](repos/01welcome/welcome-to-learn-verified/README.md)
 
 ## Intro to Ruby Development
 ### Intro to Programming
-- [Intro to Tic Tac toe](https://github.com/learn-co-curriculum/intro-to-tic-tac-toe-rb)
-    - [readme](repos/02introRuby/01intro/intro-to-tic-tac-toe-rb/README.md)
-- [MINSWAN- Yukihero Matsumoto](https://github.com/learn-co-curriculum/matz-readme)
-    - [readme](repos/02introRuby/01intro/matz-readme/README.md)
-- [What is a Program?](https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program)
-    - [readme](repos/02introRuby/01intro/ruby-lecture-intro-what-is-a-program/README.md)
-- [Hello World (lab)](https://github.com/learn-co-students/hello-world-ruby-v-000)
-    - [readme](repos/02introRuby/01intro/hello-world-ruby-v-000/README.md)
-- [Welcome to Tic Tac Toe (lab)](https://github.com/learn-co-students/ttt-1-welcome-rb-v-000)
-    - [readme](repos/02introRuby/01intro/ttt-1-welcome-rb-v-000/README.md)
+- [Intro to Tic Tac toe](https://github.com/learn-co-curriculum/intro-to-tic-tac-toe-rb) - [readme](repos/02introRuby/01intro/intro-to-tic-tac-toe-rb/README.md)
+- [MINSWAN- Yukihero Matsumoto](https://github.com/learn-co-curriculum/matz-readme) - [readme](repos/02introRuby/01intro/matz-readme/README.md)
+- [What is a Program?](https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program) - [readme](repos/02introRuby/01intro/ruby-lecture-intro-what-is-a-program/README.md)
+- [Hello World (lab)](https://github.com/learn-co-students/hello-world-ruby-v-000) - [readme](repos/02introRuby/01intro/hello-world-ruby-v-000/README.md)
+- [Welcome to Tic Tac Toe (lab)](https://github.com/learn-co-students/ttt-1-welcome-rb-v-000) - [readme](repos/02introRuby/01intro/ttt-1-welcome-rb-v-000/README.md)
 ### Debugging
 - [Intro to IRB](https://github.com/learn-co-curriculum/irb-readme)
 - [Reading Error Messages](https://github.com/learn-co-students/ruby-lecture-reading-error-messages-v-000)
